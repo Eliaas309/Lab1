@@ -3,7 +3,6 @@ public class Profile{
 		System.out.println("Elias Assaf");
 		System.out.println("Mechatronics Engineering");
 		System.out.println("First Year");
-		System.out.println("Gaming");
 		
 }
 
